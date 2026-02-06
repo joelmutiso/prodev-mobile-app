@@ -1,6 +1,6 @@
 import { View, Text, TextInput, TouchableOpacity, Image, ScrollView, SafeAreaView } from 'react-native';
 import { useRouter } from 'expo-router';
-import { styles } from '@/styles/_joinstyle';
+import { styles } from '@/styles/_join';
 import { HEROLOGOGREEN, GOOGLELOGO, FACEBOOKLOGO } from '@/constants';
 import { Ionicons } from '@expo/vector-icons';
 
